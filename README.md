@@ -114,6 +114,10 @@ Un clic sur « Incrémenter le compteur » → augmente le compteur à l’écra
 
 <img width="484" height="776" alt="image" src="https://github.com/user-attachments/assets/59422e6a-a22b-4fb3-bf8f-7b2e383e356f" />
 
+https://github.com/user-attachments/assets/1a98e3e8-851f-4313-8a47-b8830f036c55
+
+
+
 ---
 
 ## Installation
@@ -125,5 +129,6 @@ git clone [https://github.com/ton-compte/HelloToast.git](https://github.com/siha
 Ouvrir dans Android Studio
 
 Lancer l’application sur un émulateur ou un téléphone Android
+
 
 

@@ -120,9 +120,10 @@ Un clic sur « Incrémenter le compteur » → augmente le compteur à l’écra
 
 Cloner le projet
 
-git clone https://github.com/ton-compte/HelloToast.git
+git clone [https://github.com/ton-compte/HelloToast.git](https://github.com/sihamjardi/Android-Java-HelloToast)
 
 Ouvrir dans Android Studio
 
 Lancer l’application sur un émulateur ou un téléphone Android
+
 

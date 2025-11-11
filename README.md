@@ -2,14 +2,14 @@
 
 Cette application simple permet d’afficher un message Toast et d’incrémenter un compteur à chaque clic sur un bouton.
 
-## 📱 Objectif
+## Objectif
 - Apprendre à créer une interface utilisateur Android avec XML
 - Gérer des événements de clics sur des boutons
 - Mettre à jour dynamiquement un élément TextView
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 - Android Studio
 - Java
 - XML (Layout Android)
@@ -17,7 +17,7 @@ Cette application simple permet d’afficher un message Toast et d’incrémente
 
 ---
 
-## 🧱 Structure de l’interface (activity_main.xml)
+## Structure de l’interface (activity_main.xml)
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -125,3 +125,4 @@ git clone https://github.com/ton-compte/HelloToast.git
 Ouvrir dans Android Studio
 
 Lancer l’application sur un émulateur ou un téléphone Android
+
